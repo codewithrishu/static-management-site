@@ -1,0 +1,131 @@
+.my_nav{
+    font-size: small;
+    box-shadow: 0px 2px 2px rgba(0,0,0,0.3);
+}
+.my_nav .dropdown-menu{
+    font-size: small;
+}
+.gradient{
+    height: 5px;
+    background: rgb(17,0,75);
+    background: linear-gradient(90deg, rgba(17,0,75,1) 0%, rgba(114,6,255,1) 15%, rgba(29,170,166,1) 35%, rgba(7,180,85,1) 55%, rgba(182,140,0,1) 75%, rgba(196,101,101,1) 100%);
+}
+.main-banner{
+    padding-top: 150px;
+    padding-bottom: 100px;
+    background-image: url(img/img1.jpg);
+    background-size: cover;
+    color: white;
+}
+.features{
+    padding-top: 35px;
+    padding-bottom: 25px;
+    background-color: rgb(241, 229, 229);
+}
+.features-holder{
+    text-align: center;
+    margin-bottom: 25px;
+}
+.features-holder h3{
+    font-size: 1.2em;
+}
+.features-holder p{
+    font-size: 14px;
+}
+.online-cources, .classroom-cources, .review-slider, .page-content{
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+.online-cources-widget, .classroom-cources-widget, .review-slider-widget{
+    text-align: center;
+}
+.online-cources-widget h3, .classroom-cources-widget h3, .signup-form-courses h3 , .review-slider-widget h3{
+    font-size: 1.2em;
+}
+.online-cources-widget p, .classroom-cources-widget p, .signup-form-courses p, .review-slider-widget p{
+    font-size: 14px;
+}
+.online-courses-card, .review-slider-widget{
+    text-align: center;
+    margin-bottom: 25px
+}
+.online-courses-card h3{
+    font-size: 1.2em;
+}
+.online-courses-card p{
+    font-size: 14px;
+}
+.classroom-cources, .page-content{
+      background-color: rgb(241, 229, 229);
+}
+.course-list-item{
+    color: black;
+    font-size: small;
+    padding-top: 10px;
+}
+.review-slider{
+    background-color: rgb(223, 213, 213);
+}
+#review-slider-content li .card{
+    text-align: center;
+}
+#review-slider-content li .card img{
+    width: 50px;
+    margin-bottom: 15px;
+}
+#review-slider-content li .card .card-title{
+    font-size: 18px;
+    font-weight: bold;
+}
+#review-slider-content li .star{
+    font-size: 14px;
+    color: orange;
+}
+#review-slider-content li .card .card-text{
+    font-size: 14px;
+}
+footer.main-footer{
+    background-color: rgb(53, 52, 52);
+    color: white;
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+aside.footer-widget{
+    margin-bottom:25px;
+
+}
+aside.footer-widget h5{
+    font-size: 16px;
+}
+aside.footer-widget ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+aside.footer-widget ul li a{
+    text-decoration: none;
+    font-size: 14px;
+    display: inline-block;
+    color: rgb(150, 150, 150);
+    margin-bottom: 5px;
+}
+address h2{
+    font-size: 20px;
+}
+address p{
+    font-size: 14px;
+}
+section.copy{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 14px;
+}
+section.copy p{
+    margin: 0;
+}
+.Contact-us{
+   padding-top: 100px;
+}
